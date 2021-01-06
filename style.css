@@ -1,0 +1,243 @@
+body{
+    margin: 0;
+    font-family: 'Bebas Neue', cursive
+
+}
+.menu{
+  display: flex;
+  justify-content: flex-end;
+  
+}
+.menu a{
+    text-decoration: none;
+    color:#000000b0;
+    padding: 20px;
+    font-family:sans-serif ;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+.head{
+    margin-right: 50px;
+    margin-top: 25px;
+}
+.name-bar{
+    float: left;
+    width: 40%;
+    margin-left: 120px;
+
+}
+.name-bar h1{
+    font-size: 60px;
+    color: #00000085;
+
+}
+.name-rong{
+    color: #ff45009c;
+}
+.para{
+    color:#000000bf;
+    font-family: serif;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+    
+
+.img img{
+    width: 32%;
+}
+.first-side{
+    margin-top: 45px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:#ff6347d4;
+    padding: 15px 40px;
+    color: white;
+    font-size: 15px;
+    font-family:sans-serif;
+    border-radius: 5px;
+}
+.image{
+     margin-left: 120PX;
+}
+.image img{
+   width: 35%;
+   float: left;
+   margin-right: 200px;
+
+}
+.about-bar{
+    width: 80%;
+    margin-left: 50px;
+    padding-top: 35px;
+    
+}
+.about-bar h1{
+    color:#22225ffa;
+    font-size: 42px;
+    font-weight: 500;
+    
+} 
+.about-bar p{
+    text-align: justify;
+    color:#171515b3;
+    font-family: system-ui;
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+.second-sec{
+    margin-top: 70px;
+    padding-bottom: 150px;
+}
+.project{
+    background-color:#75737321;
+    height: 800px;
+}
+.project h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.rong{
+    color: tomato;
+
+}
+.sec-rong{
+    color:#1c1c2de3;
+}
+.work img{
+    width: 100%;
+    
+    
+}
+.work{
+    margin-left: 4%;
+    width: 25%;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: white;
+    float: left;
+    margin-bottom: 100px;
+    
+    
+    
+    
+}
+.work h4{
+    font-size: 20px;
+    color: #1b1b38d6;
+    font-family: arial black;
+}
+.work p{
+    font-family:arial;
+    color:gray;
+}
+.project{
+    
+}
+.who{
+    text-align: center;
+}
+.who h1{
+    font-size: 50px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.who p{
+    font-family: sans-serif;
+    color: gray;;
+}
+.coding-pic img{
+    padding-top: 30px;
+    padding-left: 50px;
+    border-radius: 15px;
+}
+.coding-pic{
+    width: 50%;
+    float: left;
+}
+.my-talk{
+    width: 40%;
+    float: left;
+    
+
+}
+.my-talk h2{
+    font-family: arial;
+}
+.my-talk p{
+    color:black;
+    font-family: serif;
+    text-align: justify;
+}
+.my-talk ul li{
+    font-family: sans-serif;
+    color: grey;
+}
+.coding{
+    margin-top: 100px;
+    
+    padding-bottom: 200px;
+}
+.inquiry{
+    padding-top: 100px;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 200px;
+    overflow: hidden;
+    padding-bottom: 45px;
+
+}
+.clear-div{
+    clear: both;
+}
+.work-inq{
+    float: left;
+    padding-left: 100px;
+    font-weight: 300;
+    color: white;
+    font-size: 30px;
+    padding-right: 200px;
+    
+}
+.link{
+   padding-top: 50px;
+   padding-left: px;
+   
+   
+   
+}
+.backround{
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    width: 70%;
+    border-radius: 20px;
+
+}
+.link-button .butt{
+    
+}
+.hello-design{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.hello-design h5{
+    font-size: 20px;
+    color: gray;
+}
+.hello-design h2{
+    font-family: arial;
+    color:#040438c9;
+    font-size: 40px;
+}
+.icon-image{
+    width: 40px;
+    padding: 10px;
+}
